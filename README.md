@@ -1,0 +1,2 @@
+# getrich
+learn programming
